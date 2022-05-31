@@ -1,0 +1,353 @@
+2022-05-31 18:42:49,229 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 18:42:49,232 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 18:42:49,232 - DEBUG - bank_classes - Username does not exist: a
+2022-05-31 18:42:57,696 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 18:42:57,698 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 18:42:57,698 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Shweta1
+2022-05-31 18:42:57,701 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Shweta1
+2022-05-31 18:42:57,702 - DEBUG - bank_classes - Customer instance created: Shweta1
+2022-05-31 18:46:19,275 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 18:46:19,278 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 18:46:19,278 - DEBUG - bank_classes - Username does not exist: Shweta
+2022-05-31 18:46:32,202 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 18:46:32,205 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 18:46:32,205 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Shweta1
+2022-05-31 18:46:32,207 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Shweta1
+2022-05-31 18:46:32,207 - DEBUG - bank_classes - Customer instance created: Shweta1
+2022-05-31 18:46:45,376 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 18:46:45,378 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 18:46:45,378 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Shweta1
+2022-05-31 18:46:45,380 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Shweta1
+2022-05-31 18:46:45,380 - DEBUG - bank_classes - Customer instance created: Shweta1
+2022-05-31 19:54:21,814 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 19:54:21,814 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 19:54:21,816 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 19:54:21,816 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 19:54:21,818 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 19:54:21,818 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 19:54:21,818 - DEBUG - bank_classes - Customer login failed: Max123
+2022-05-31 19:54:35,647 - DEBUG - bank_classes - Try creating customer object: M
+2022-05-31 19:54:35,647 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 19:54:35,649 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 19:54:35,649 - DEBUG - bank_classes - User not found: M
+2022-05-31 19:54:56,549 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 19:54:56,549 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 19:54:56,551 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 19:54:56,551 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 19:54:56,553 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 19:54:56,554 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 19:54:56,554 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 20:06:57,708 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 20:06:57,708 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:06:57,715 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:06:57,715 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 20:06:57,720 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 20:06:57,720 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 20:06:57,720 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 20:07:41,470 - DEBUG - bank_classes - Try creating customer object: MAx123
+2022-05-31 20:07:41,471 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:07:41,476 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:07:41,476 - DEBUG - bank_classes - User not found: MAx123
+2022-05-31 20:07:57,415 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 20:07:57,415 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:07:57,419 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:07:57,419 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 20:07:57,424 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 20:07:57,424 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 20:07:57,424 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 20:09:35,522 - DEBUG - bank_classes - Try creating customer object: Max@123
+2022-05-31 20:09:35,522 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:09:35,527 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:09:35,527 - DEBUG - bank_classes - User not found: Max@123
+2022-05-31 20:10:03,514 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 20:10:03,515 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:10:03,518 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:10:03,519 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 20:10:03,524 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 20:10:03,524 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 20:10:03,524 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 20:35:17,848 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 20:35:17,848 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:35:17,851 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:35:17,851 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 20:35:17,854 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 20:35:17,854 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 20:35:17,854 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 20:35:26,336 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 20:35:26,339 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 20:35:26,355 - DEBUG - bank_classes - Try to create account instance: 1000000014
+2022-05-31 21:30:35,941 - DEBUG - bank_classes - Try creating customer object: a
+2022-05-31 21:30:35,942 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:30:35,945 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:30:35,945 - DEBUG - bank_classes - User not found: a
+2022-05-31 21:30:56,165 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:30:56,166 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:30:56,168 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:30:56,168 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:30:56,171 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:30:56,171 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:30:56,171 - DEBUG - bank_classes - Customer login failed: Max123
+2022-05-31 21:31:20,607 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:31:20,607 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:31:20,610 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:31:20,610 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:31:20,613 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:31:20,614 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:31:20,614 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 21:34:25,471 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:34:25,472 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:34:25,475 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:34:25,475 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:34:25,477 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:34:25,477 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:34:25,477 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 21:34:55,939 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:34:55,942 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:34:55,959 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:36:14,593 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:36:14,593 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:36:14,596 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:36:14,596 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:36:14,599 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:36:14,599 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:36:14,599 - DEBUG - bank_classes - Customer login success: Max123
+2022-05-31 21:36:29,758 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:36:29,760 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:36:29,772 - DEBUG - bank_classes - Try to create account instance: 1000000016
+2022-05-31 21:37:46,115 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:37:46,117 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:37:46,128 - DEBUG - bank_classes - Try to create account instance: 1000000017
+2022-05-31 21:38:40,938 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:38:40,942 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:39:13,061 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:39:13,065 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:39:25,498 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:39:25,501 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:40:22,766 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:40:22,770 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:40:37,100 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:40:37,104 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:41:13,720 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:41:13,723 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:41:21,091 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:41:21,096 - DEBUG - bank_classes - Withdraw fn started for account 1000000015
+2022-05-31 21:41:21,097 - DEBUG - bank_classes - Withdraw amount invalid
+2022-05-31 21:41:31,982 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:41:31,986 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:41:41,859 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:41:41,864 - DEBUG - bank_classes - Withdraw fn started for account 1000000015
+2022-05-31 21:41:41,865 - DEBUG - bank_classes - Withdraw amount negative
+2022-05-31 21:41:50,822 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:41:50,825 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:42:08,213 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:42:08,219 - DEBUG - bank_classes - Withdraw fn started for account 1000000015
+2022-05-31 21:42:25,947 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:42:25,950 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:42:39,528 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:42:39,533 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:42:47,260 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:42:47,265 - DEBUG - bank_classes - Deposit fn started for account 1000000015
+2022-05-31 21:42:47,265 - DEBUG - bank_classes - Deposit amount invalid
+2022-05-31 21:42:54,806 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:42:54,808 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:43:28,502 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:43:28,506 - DEBUG - bank_classes - Deposit fn started for account 1000000015
+2022-05-31 21:43:28,506 - DEBUG - bank_classes - Deposit amount negative
+2022-05-31 21:43:38,249 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:43:38,254 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:43:45,739 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:43:45,743 - DEBUG - bank_classes - Deposit fn started for account 1000000015
+2022-05-31 21:43:45,769 - DEBUG - bank_classes - Balance updated for account:1000000015
+2022-05-31 21:43:45,770 - DEBUG - bank_classes - Deposit successful for account: 1000000015
+2022-05-31 21:43:45,777 - DEBUG - bank_classes - Balance updated for account:1000000015
+2022-05-31 21:43:45,777 - DEBUG - bank_classes - Try to create account instance: 1000000015
+2022-05-31 21:45:55,153 - DEBUG - bank_classes - admin authenticate failed
+2022-05-31 21:46:08,950 - DEBUG - bank_classes - admin authenticate failed
+2022-05-31 21:46:27,634 - DEBUG - bank_classes - admin authenticate successful
+2022-05-31 21:46:51,800 - DEBUG - bank_classes - admin authenticate successful
+2022-05-31 21:47:06,906 - DEBUG - bank_classes - Try creating customer object: a
+2022-05-31 21:47:06,906 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:47:06,910 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:47:06,910 - DEBUG - bank_classes - User not found: a
+2022-05-31 21:47:50,238 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:47:50,238 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:47:50,241 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:47:50,241 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:47:50,244 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:47:50,244 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:47:50,244 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Max123
+2022-05-31 21:47:50,247 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Max123
+2022-05-31 21:48:22,822 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:48:22,822 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:48:22,824 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:48:22,824 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:48:22,827 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:48:22,827 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:48:42,422 - DEBUG - bank_classes - update_customer_details_to_csv fn started for: Max123
+2022-05-31 21:48:42,428 - DEBUG - bank_classes - update_customer_details_to_csv fn finished for: Max123
+2022-05-31 21:48:42,428 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:48:42,428 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:48:42,441 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:48:42,441 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:48:42,444 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:48:42,444 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:48:42,444 - DEBUG - bank_classes - Customer details updated successfully
+2022-05-31 21:48:56,380 - DEBUG - bank_classes - Try creating customer object: a
+2022-05-31 21:48:56,380 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:48:56,383 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:48:56,383 - DEBUG - bank_classes - User not found: a
+2022-05-31 21:49:07,102 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:49:07,102 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:49:07,104 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:49:07,104 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:49:07,106 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:49:07,106 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:55:25,617 - DEBUG - bank_classes - admin authenticate successful
+2022-05-31 21:55:40,241 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:55:40,241 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:55:40,244 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:55:40,244 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:55:40,246 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:55:40,246 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:56:17,652 - DEBUG - bank_classes - update_customer_details_to_csv fn started for: Max123
+2022-05-31 21:56:17,657 - DEBUG - bank_classes - update_customer_details_to_csv fn finished for: Max123
+2022-05-31 21:56:17,658 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:56:17,658 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:56:17,670 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:56:17,670 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:56:17,672 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:56:17,672 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:56:17,672 - DEBUG - bank_classes - Customer details updated successfully
+2022-05-31 21:56:45,493 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:56:45,493 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:56:45,495 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:56:45,495 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:56:45,498 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:56:45,498 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:57:33,975 - DEBUG - bank_classes - update_customer_details_to_csv fn started for: Max123
+2022-05-31 21:57:33,981 - DEBUG - bank_classes - update_customer_details_to_csv fn finished for: Max123
+2022-05-31 21:57:33,982 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 21:57:33,982 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:57:33,989 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:57:33,989 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 21:57:33,992 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 21:57:33,992 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 21:57:33,992 - DEBUG - bank_classes - Customer details updated successfully
+2022-05-31 21:58:17,551 - DEBUG - bank_classes - Try creating customer object: a
+2022-05-31 21:58:17,551 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:58:17,553 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:58:17,553 - DEBUG - bank_classes - User not found: a
+2022-05-31 21:58:39,188 - DEBUG - bank_classes - Try creating customer object: Saanvi1
+2022-05-31 21:58:39,189 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:58:39,190 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:58:39,191 - DEBUG - bank_classes - User not found: Saanvi1
+2022-05-31 21:59:20,423 - DEBUG - bank_classes - Try creating customer object: Saanvi15
+2022-05-31 21:59:20,423 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 21:59:20,425 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 21:59:20,425 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Saanvi15
+2022-05-31 21:59:20,428 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Saanvi15
+2022-05-31 21:59:20,428 - DEBUG - bank_classes - Customer instance created: Saanvi15
+2022-05-31 21:59:20,428 - DEBUG - bank_classes - Delete account fn started for: Saanvi15
+2022-05-31 21:59:20,428 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Saanvi15
+2022-05-31 21:59:20,430 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Saanvi15
+2022-05-31 21:59:20,436 - DEBUG - bank_classes - For Saanvi15, deleted related accounts: 1000000011
+2022-05-31 21:59:20,436 - DEBUG - bank_classes - Delete account fn finished for: Saanvi15
+2022-05-31 21:59:20,440 - DEBUG - bank_classes - Customer delete successful: Saanvi15
+2022-05-31 22:07:11,502 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:07:11,504 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:07:11,504 - DEBUG - bank_classes - Signup failed: user exists: Max123
+2022-05-31 22:07:22,570 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 22:07:22,570 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:07:22,572 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:07:22,572 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 22:07:22,574 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 22:07:22,574 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 22:09:03,555 - DEBUG - bank_classes - Try creating customer object: Max123
+2022-05-31 22:09:03,555 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:09:03,558 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:09:03,558 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Max123
+2022-05-31 22:09:03,560 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Max123
+2022-05-31 22:09:03,560 - DEBUG - bank_classes - Customer instance created: Max123
+2022-05-31 22:09:20,049 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:09:20,051 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:09:20,062 - DEBUG - bank_classes - Try to create account instance: 1000000018
+2022-05-31 22:09:42,566 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:09:42,569 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:13,178 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:40:13,182 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:13,184 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:40:13,195 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:13,196 - DEBUG - bank_classes - Try creating customer object: Peter@1
+2022-05-31 22:40:13,196 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:40:13,197 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:13,197 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Peter@1
+2022-05-31 22:40:13,198 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Peter@1
+2022-05-31 22:40:13,198 - DEBUG - bank_classes - Customer instance created: Peter@1
+2022-05-31 22:40:13,198 - DEBUG - bank_classes - Customer signup success: Peter@1
+2022-05-31 22:40:13,199 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:40:13,199 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:13,207 - DEBUG - bank_classes - Try to create account instance: 1000000019
+2022-05-31 22:40:42,028 - DEBUG - bank_classes - Try creating customer object: Peter@1
+2022-05-31 22:40:42,028 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:40:42,030 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:40:42,031 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Peter@1
+2022-05-31 22:40:42,033 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Peter@1
+2022-05-31 22:40:42,033 - DEBUG - bank_classes - Customer instance created: Peter@1
+2022-05-31 22:40:42,033 - DEBUG - bank_classes - Customer login success: Peter@1
+2022-05-31 22:40:45,345 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Peter@1
+2022-05-31 22:40:45,349 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Peter@1
+2022-05-31 22:41:01,243 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: Peter@1
+2022-05-31 22:41:01,245 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: Peter@1
+2022-05-31 22:42:40,396 - DEBUG - bank_classes - Try to create account instance: 1000000006
+2022-05-31 22:42:40,400 - DEBUG - bank_classes - Deposit fn started for account 1000000006
+2022-05-31 22:42:40,403 - DEBUG - bank_classes - Balance updated for account:1000000006
+2022-05-31 22:42:40,403 - DEBUG - bank_classes - Deposit successful for account: 1000000006
+2022-05-31 22:42:40,403 - DEBUG - bank_classes - Try to create account instance: 1000000006
+2022-05-31 22:43:01,974 - DEBUG - bank_classes - Try to create account instance: 1000000005
+2022-05-31 22:43:01,976 - DEBUG - bank_classes - Account not found: 1000000005
+2022-05-31 22:43:24,136 - DEBUG - bank_classes - Try to create account instance: 1000000006
+2022-05-31 22:43:24,141 - DEBUG - bank_classes - Withdraw fn started for account 1000000006
+2022-05-31 22:43:54,818 - DEBUG - bank_classes - Try to create account instance: 1000000006
+2022-05-31 22:43:54,824 - DEBUG - bank_classes - Withdraw fn started for account 1000000006
+2022-05-31 22:43:54,827 - DEBUG - bank_classes - Balance updated for account:1000000006
+2022-05-31 22:43:54,827 - DEBUG - bank_classes - Withdrawal successful for account: 1000000006
+2022-05-31 22:43:54,827 - DEBUG - bank_classes - Try to create account instance: 1000000006
+2022-05-31 22:48:06,876 - DEBUG - bank_classes - Try creating customer object: Shweta1
+2022-05-31 22:48:06,876 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:48:06,878 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:48:06,878 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Shweta1
+2022-05-31 22:48:06,881 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Shweta1
+2022-05-31 22:48:06,881 - DEBUG - bank_classes - Customer instance created: Shweta1
+2022-05-31 22:48:06,881 - DEBUG - bank_classes - Customer login success: Shweta1
+2022-05-31 22:48:51,004 - DEBUG - bank_classes - Try creating customer object: Shweta1
+2022-05-31 22:48:51,004 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:48:51,007 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 22:48:51,007 - DEBUG - bank_classes - update_customer_details_from_csv fn started for Shweta1
+2022-05-31 22:48:51,009 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for Shweta1
+2022-05-31 22:48:51,009 - DEBUG - bank_classes - Customer instance created: Shweta1
+2022-05-31 22:48:51,009 - DEBUG - bank_classes - Customer login failed: Shweta1
+2022-05-31 22:49:18,671 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 22:49:18,673 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 23:09:28,095 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 23:09:28,098 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 23:09:28,102 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 23:09:28,111 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 23:09:28,112 - DEBUG - bank_classes - Try creating customer object: s2205312309
+2022-05-31 23:09:28,112 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 23:09:28,114 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 23:09:28,114 - DEBUG - bank_classes - update_customer_details_from_csv fn started for s2205312309
+2022-05-31 23:09:28,117 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for s2205312309
+2022-05-31 23:09:28,117 - DEBUG - bank_classes - Customer instance created: s2205312309
+2022-05-31 23:09:28,117 - DEBUG - bank_classes - Customer signup success: s2205312309
+2022-05-31 23:11:29,342 - DEBUG - bank_classes - admin authenticate successful
+2022-05-31 23:11:37,035 - DEBUG - bank_classes - Try creating customer object: s2205312309
+2022-05-31 23:11:37,035 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn started
+2022-05-31 23:11:37,038 - DEBUG - bank_classes - class fn: update_username_list_from_csv fn finished
+2022-05-31 23:11:37,038 - DEBUG - bank_classes - update_customer_details_from_csv fn started for s2205312309
+2022-05-31 23:11:37,041 - DEBUG - bank_classes - update_customer_details_from_csv fn completed for s2205312309
+2022-05-31 23:11:37,041 - DEBUG - bank_classes - Customer instance created: s2205312309
+2022-05-31 23:11:37,041 - DEBUG - bank_classes - Delete account fn started for: s2205312309
+2022-05-31 23:11:37,041 - DEBUG - bank_classes - update_related_account_balance_dict fn started for: s2205312309
+2022-05-31 23:11:37,044 - DEBUG - bank_classes - update_related_account_balance_dict fn finished for: s2205312309
+2022-05-31 23:11:37,044 - DEBUG - bank_classes - No related accounts for username: s2205312309
+2022-05-31 23:11:37,047 - DEBUG - bank_classes - Customer delete successful: s2205312309

@@ -1,0 +1,55 @@
+2022-05-31 20:35:26,349 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 20:35:44,270 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 21:32:10,738 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 21:34:02,711 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 21:34:29,878 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 21:34:41,626 - DEBUG - helper_functions - Balance amount negative:-500
+2022-05-31 21:34:55,946 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 21:36:29,763 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 21:37:46,121 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 21:49:23,451 - DEBUG - helper_functions - password length not valid:pass1
+2022-05-31 21:49:50,332 - DEBUG - helper_functions - password valid:Max@1234
+2022-05-31 21:55:48,533 - DEBUG - helper_functions - password length not valid:a
+2022-05-31 21:55:56,766 - DEBUG - helper_functions - password valid:Max@12345
+2022-05-31 22:03:09,313 - DEBUG - helper_functions - username valid:Max123
+2022-05-31 22:03:27,366 - DEBUG - helper_functions - username length not valid:Max12
+2022-05-31 22:03:45,932 - DEBUG - helper_functions - username valid:Abc123
+2022-05-31 22:03:52,650 - DEBUG - helper_functions - username length not valid:Max12
+2022-05-31 22:04:02,832 - DEBUG - helper_functions - username contains no alphabet:      
+2022-05-31 22:04:11,848 - DEBUG - helper_functions - username contains no number:Maximilian
+2022-05-31 22:04:23,737 - DEBUG - helper_functions - username contains no alphabet:123456
+2022-05-31 22:04:38,061 - DEBUG - helper_functions - password valid
+2022-05-31 22:04:48,357 - DEBUG - helper_functions - password length not valid:Max@1
+2022-05-31 22:04:58,302 - DEBUG - helper_functions - password contains no alphabet:      
+2022-05-31 22:05:09,464 - DEBUG - helper_functions - password contains no number:Max@milian
+2022-05-31 22:05:16,310 - DEBUG - helper_functions - password contains no alphabet:123@56
+2022-05-31 22:05:21,623 - DEBUG - helper_functions - password contains no special char:Max123
+2022-05-31 22:06:15,598 - DEBUG - helper_functions - username length not valid:Max
+2022-05-31 22:06:33,729 - DEBUG - helper_functions - username valid:Max123
+2022-05-31 22:06:33,730 - DEBUG - helper_functions - password contains no special char:Max123
+2022-05-31 22:06:48,037 - DEBUG - helper_functions - username valid:Max123
+2022-05-31 22:06:48,037 - DEBUG - helper_functions - password valid
+2022-05-31 22:06:48,037 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 22:06:59,271 - DEBUG - helper_functions - username valid:Max123
+2022-05-31 22:06:59,271 - DEBUG - helper_functions - password valid
+2022-05-31 22:06:59,271 - DEBUG - helper_functions - Balance amount negative:-500
+2022-05-31 22:07:11,501 - DEBUG - helper_functions - username valid:Max123
+2022-05-31 22:07:11,502 - DEBUG - helper_functions - password valid
+2022-05-31 22:09:20,054 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 22:09:51,357 - DEBUG - helper_functions - Balance amount negative:-6000
+2022-05-31 22:36:32,825 - DEBUG - helper_functions - username length not valid:a
+2022-05-31 22:37:00,549 - DEBUG - helper_functions - username length not valid:a
+2022-05-31 22:37:22,688 - DEBUG - helper_functions - username length not valid:Peter
+2022-05-31 22:37:40,340 - DEBUG - helper_functions - username valid:Peter@1
+2022-05-31 22:39:06,376 - DEBUG - helper_functions - password valid
+2022-05-31 22:39:59,670 - DEBUG - helper_functions - Balance amount not decimal:a
+2022-05-31 22:40:07,160 - DEBUG - helper_functions - Balance amount negative:-300
+2022-05-31 22:40:13,178 - DEBUG - helper_functions - username valid:Peter@1
+2022-05-31 22:40:13,178 - DEBUG - helper_functions - password valid
+2022-05-31 22:40:13,184 - DEBUG - helper_functions - Data appended to csv: customer_database.csv
+2022-05-31 22:40:13,202 - DEBUG - helper_functions - Data appended to csv: account_database.csv
+2022-05-31 22:41:50,090 - DEBUG - helper_functions - password contains no special char:Max123
+2022-05-31 22:49:09,159 - DEBUG - helper_functions - Balance amount negative:-6000
+2022-05-31 23:09:28,095 - DEBUG - helper_functions - username valid:s2205312309
+2022-05-31 23:09:28,095 - DEBUG - helper_functions - password valid
+2022-05-31 23:09:28,101 - DEBUG - helper_functions - Data appended to csv: customer_database.csv

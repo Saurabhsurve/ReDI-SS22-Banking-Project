@@ -1,0 +1,233 @@
+2022-05-31 17:29:24,168 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:30:58,963 - INFO - __main__ - Program ended
+2022-05-31 17:32:50,427 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:32:53,602 - INFO - __main__ - Customer homepage
+2022-05-31 17:35:26,822 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:35:30,792 - INFO - __main__ - Admin homepage
+2022-05-31 17:39:11,533 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:39:51,625 - INFO - __main__ - Customer homepage
+2022-05-31 17:45:16,305 - INFO - __main__ - Customer login page
+2022-05-31 17:45:36,206 - DEBUG - __main__ - Customer Shweta1 logged in successfully
+2022-05-31 17:45:36,207 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:51:04,248 - INFO - __main__ - Started list bank accounts for customer: Shweta1
+2022-05-31 17:51:04,252 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:53:47,090 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:53:49,056 - INFO - __main__ - Customer homepage
+2022-05-31 17:53:50,151 - INFO - __main__ - Customer login page
+2022-05-31 17:53:59,290 - DEBUG - __main__ - Customer Shweta1 logged in successfully
+2022-05-31 17:53:59,290 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:54:02,102 - INFO - __main__ - Started list bank accounts for customer: Shweta1
+2022-05-31 17:54:02,106 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:56:56,681 - INFO - __main__ - Started list bank accounts for customer: Shweta1
+2022-05-31 17:56:56,684 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:57:01,535 - INFO - __main__ - Program ended
+2022-05-31 17:57:05,078 - INFO - __main__ - Program started: Homepage
+2022-05-31 17:57:06,917 - INFO - __main__ - Customer homepage
+2022-05-31 17:57:09,794 - INFO - __main__ - Customer login page
+2022-05-31 17:57:16,794 - DEBUG - __main__ - Customer Shweta1 logged in successfully
+2022-05-31 17:57:16,794 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:57:22,992 - INFO - __main__ - Started list bank accounts for customer: Shweta1
+2022-05-31 17:57:22,996 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 17:59:43,763 - INFO - __main__ - Started show balance for: Shweta1
+2022-05-31 18:01:13,588 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 18:42:36,635 - INFO - __main__ - Program started: Homepage
+2022-05-31 18:42:40,090 - INFO - __main__ - Customer homepage
+2022-05-31 18:42:41,784 - INFO - __main__ - Customer login page
+2022-05-31 18:42:49,232 - INFO - __main__ - Customer homepage
+2022-05-31 18:42:52,952 - INFO - __main__ - Customer login page
+2022-05-31 18:42:57,702 - DEBUG - __main__ - Customer Shweta1 logged in successfully
+2022-05-31 18:42:57,702 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 18:46:07,373 - INFO - __main__ - Program started: Homepage
+2022-05-31 18:46:09,731 - INFO - __main__ - Customer homepage
+2022-05-31 18:46:12,227 - INFO - __main__ - Customer login page
+2022-05-31 18:46:19,278 - INFO - __main__ - Customer homepage
+2022-05-31 18:46:27,000 - INFO - __main__ - Customer login page
+2022-05-31 18:46:32,208 - INFO - __main__ - Customer homepage
+2022-05-31 18:46:36,318 - INFO - __main__ - Customer login page
+2022-05-31 18:46:45,380 - DEBUG - __main__ - Customer Shweta1 logged in successfully
+2022-05-31 18:46:45,380 - INFO - __main__ - Customer actions for: Shweta1
+2022-05-31 19:50:35,461 - INFO - __main__ - Program started: Homepage
+2022-05-31 19:50:40,281 - INFO - __main__ - Program ended
+2022-05-31 19:50:43,857 - INFO - __main__ - Program started: Homepage
+2022-05-31 19:50:48,279 - INFO - __main__ - Customer homepage
+2022-05-31 19:50:58,359 - INFO - __main__ - Customer login page
+2022-05-31 19:54:08,346 - INFO - __main__ - Program started: Homepage
+2022-05-31 19:54:10,781 - INFO - __main__ - Customer homepage
+2022-05-31 19:54:13,127 - INFO - __main__ - Customer login page
+2022-05-31 19:54:21,818 - INFO - __main__ - Customer homepage
+2022-05-31 19:54:31,137 - INFO - __main__ - Customer login page
+2022-05-31 19:54:35,649 - INFO - __main__ - Customer homepage
+2022-05-31 19:54:41,165 - INFO - __main__ - Customer login page
+2022-05-31 19:54:56,554 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 19:54:56,554 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 19:55:02,186 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 19:55:06,080 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:06:22,180 - INFO - __main__ - Program started: Homepage
+2022-05-31 20:06:25,642 - INFO - __main__ - Customer homepage
+2022-05-31 20:06:31,366 - INFO - __main__ - Customer login page
+2022-05-31 20:06:57,720 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 20:06:57,720 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:07:27,477 - INFO - __main__ - Program started: Homepage
+2022-05-31 20:07:31,597 - INFO - __main__ - Customer homepage
+2022-05-31 20:07:34,427 - INFO - __main__ - Customer login page
+2022-05-31 20:07:41,477 - INFO - __main__ - Customer homepage
+2022-05-31 20:07:46,495 - INFO - __main__ - Customer login page
+2022-05-31 20:07:57,424 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 20:07:57,424 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:08:14,488 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 20:08:18,013 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:09:08,940 - INFO - __main__ - Program ended
+2022-05-31 20:09:14,918 - INFO - __main__ - Program started: Homepage
+2022-05-31 20:09:21,239 - INFO - __main__ - Customer homepage
+2022-05-31 20:09:25,233 - INFO - __main__ - Customer login page
+2022-05-31 20:09:35,528 - INFO - __main__ - Customer homepage
+2022-05-31 20:09:54,205 - INFO - __main__ - Customer login page
+2022-05-31 20:10:03,524 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 20:10:03,526 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:10:07,300 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 20:24:44,075 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:34:47,315 - INFO - __main__ - Program started: Homepage
+2022-05-31 20:34:50,902 - INFO - __main__ - Customer homepage
+2022-05-31 20:34:55,256 - INFO - __main__ - Customer login page
+2022-05-31 20:35:17,854 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 20:35:17,854 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:35:22,396 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 20:35:26,357 - DEBUG - __main__ - Account created with account number: 1000000014
+2022-05-31 20:35:26,357 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 20:35:42,003 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 20:35:44,270 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:28:40,394 - INFO - __main__ - Program ended
+2022-05-31 21:28:43,742 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:29:24,277 - INFO - __main__ - Program ended
+2022-05-31 21:29:28,832 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:29:34,225 - INFO - __main__ - Customer homepage
+2022-05-31 21:30:09,394 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:30:20,480 - INFO - __main__ - Customer homepage
+2022-05-31 21:30:31,091 - INFO - __main__ - Customer login page
+2022-05-31 21:30:35,945 - INFO - __main__ - Customer homepage
+2022-05-31 21:30:49,647 - INFO - __main__ - Customer login page
+2022-05-31 21:30:56,171 - INFO - __main__ - Customer homepage
+2022-05-31 21:31:04,718 - INFO - __main__ - Customer login page
+2022-05-31 21:31:20,614 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 21:31:20,614 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:32:05,930 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:32:10,738 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:34:00,132 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:34:02,712 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:34:09,381 - INFO - __main__ - Program ended
+2022-05-31 21:34:12,836 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:34:15,537 - INFO - __main__ - Customer homepage
+2022-05-31 21:34:17,468 - INFO - __main__ - Customer login page
+2022-05-31 21:34:25,478 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 21:34:25,478 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:34:28,363 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:34:29,878 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:34:36,764 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:34:41,626 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:34:51,391 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:34:55,962 - DEBUG - __main__ - Account created with account number: 1000000015
+2022-05-31 21:34:55,962 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:36:01,889 - INFO - __main__ - Program ended
+2022-05-31 21:36:04,778 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:36:06,967 - INFO - __main__ - Customer homepage
+2022-05-31 21:36:08,380 - INFO - __main__ - Customer login page
+2022-05-31 21:36:14,599 - DEBUG - __main__ - Customer Max123 logged in successfully
+2022-05-31 21:36:14,599 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:36:17,949 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:36:29,777 - DEBUG - __main__ - Account created with account number: 1000000016
+2022-05-31 21:36:29,777 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:37:35,542 - INFO - __main__ - Started create new bank account for: Max123
+2022-05-31 21:37:46,131 - DEBUG - __main__ - Account created with account number: 1000000017
+2022-05-31 21:37:46,131 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:38:40,938 - INFO - __main__ - Started list bank accounts for customer: Max123
+2022-05-31 21:38:40,942 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:39:13,060 - INFO - __main__ - Started show balance for: Max123
+2022-05-31 21:39:19,641 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:39:25,498 - INFO - __main__ - Started show balance for: Max123
+2022-05-31 21:39:36,997 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:40:22,766 - INFO - __main__ - Started show balance for: Max123
+2022-05-31 21:40:25,457 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:40:37,100 - INFO - __main__ - Started withdrawal for customer: Max123
+2022-05-31 21:41:08,263 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:41:13,720 - INFO - __main__ - Started withdrawal for customer: Max123
+2022-05-31 21:41:21,097 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:41:31,982 - INFO - __main__ - Started withdrawal for customer: Max123
+2022-05-31 21:41:41,865 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:41:50,822 - INFO - __main__ - Started withdrawal for customer: Max123
+2022-05-31 21:42:08,219 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:42:25,947 - INFO - __main__ - Started deposit for customer: Max123
+2022-05-31 21:42:32,095 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:42:39,528 - INFO - __main__ - Started deposit for customer: Max123
+2022-05-31 21:42:47,265 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:42:54,806 - INFO - __main__ - Started deposit for customer: Max123
+2022-05-31 21:43:28,506 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:43:38,249 - INFO - __main__ - Started deposit for customer: Max123
+2022-05-31 21:43:45,781 - INFO - __main__ - Customer actions for: Max123
+2022-05-31 21:44:14,505 - INFO - __main__ - Program ended
+2022-05-31 21:45:08,554 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:45:14,537 - INFO - __main__ - Admin homepage
+2022-05-31 21:45:31,590 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:45:35,151 - INFO - __main__ - Admin homepage
+2022-05-31 21:45:37,908 - INFO - __main__ - Program ended
+2022-05-31 21:45:42,171 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:45:46,601 - INFO - __main__ - Admin homepage
+2022-05-31 21:45:52,370 - INFO - __main__ - Admin login page
+2022-05-31 21:45:55,153 - INFO - __main__ - Admin homepage
+2022-05-31 21:46:04,870 - INFO - __main__ - Admin login page
+2022-05-31 21:46:08,950 - INFO - __main__ - Admin homepage
+2022-05-31 21:46:17,049 - INFO - __main__ - Admin login page
+2022-05-31 21:46:27,634 - DEBUG - __main__ - Admin login successful
+2022-05-31 21:46:39,887 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:46:43,941 - INFO - __main__ - Admin homepage
+2022-05-31 21:46:46,376 - INFO - __main__ - Admin login page
+2022-05-31 21:46:51,800 - DEBUG - __main__ - Admin login successful
+2022-05-31 21:47:01,050 - INFO - __main__ - Admin: customer information
+2022-05-31 21:47:13,396 - INFO - __main__ - Admin: customer information
+2022-05-31 21:48:12,744 - INFO - __main__ - Admin: customer information update
+2022-05-31 21:48:42,444 - DEBUG - __main__ - Admin updated customer information for :Max123
+2022-05-31 21:48:53,879 - INFO - __main__ - Admin: customer information update
+2022-05-31 21:49:03,262 - INFO - __main__ - Admin: customer information update
+2022-05-31 21:54:55,580 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:55:14,766 - INFO - __main__ - Program started: Homepage
+2022-05-31 21:55:17,593 - INFO - __main__ - Admin homepage
+2022-05-31 21:55:20,008 - INFO - __main__ - Admin login page
+2022-05-31 21:55:25,617 - DEBUG - __main__ - Admin login successful
+2022-05-31 21:55:29,852 - INFO - __main__ - Admin: customer information update
+2022-05-31 21:56:17,672 - DEBUG - __main__ - Admin updated customer information for :Max123
+2022-05-31 21:56:39,931 - INFO - __main__ - Admin: customer information update
+2022-05-31 21:57:33,992 - DEBUG - __main__ - Admin updated customer information for :Max123
+2022-05-31 21:58:15,090 - INFO - __main__ - Admin: customer delete
+2022-05-31 21:58:25,152 - INFO - __main__ - Admin: customer delete
+2022-05-31 21:58:45,373 - INFO - __main__ - Admin: customer delete
+2022-05-31 21:59:20,440 - DEBUG - __main__ - Admin deleted customer: Saanvi15
+2022-05-31 21:59:20,440 - DEBUG - __main__ - Admin deleted related accounts having account numbers: [1000000005, 1000000011]
+2022-05-31 21:59:48,042 - INFO - __main__ - Program started: Homepage
+2022-05-31 22:11:24,203 - INFO - __main__ - Program started: Homepage
+2022-05-31 22:11:27,002 - INFO - __main__ - Customer homepage
+2022-05-31 22:11:34,418 - INFO - __main__ - Customer signup page
+2022-05-31 22:36:32,825 - INFO - __main__ - Customer homepage
+2022-05-31 22:36:40,554 - INFO - __main__ - Program ended
+2022-05-31 22:36:50,086 - INFO - __main__ - Program started: Homepage
+2022-05-31 22:36:54,803 - INFO - __main__ - Customer homepage
+2022-05-31 22:36:58,503 - INFO - __main__ - Customer signup page
+2022-05-31 22:40:13,199 - DEBUG - __main__ - Customer Peter@1 added successfully
+2022-05-31 22:40:13,210 - DEBUG - __main__ - Account created with account number: 1000000019
+2022-05-31 22:40:13,210 - INFO - __main__ - Customer homepage
+2022-05-31 22:40:30,436 - INFO - __main__ - Customer login page
+2022-05-31 22:40:42,033 - DEBUG - __main__ - Customer Peter@1 logged in successfully
+2022-05-31 22:40:42,033 - INFO - __main__ - Customer actions for: Peter@1
+2022-05-31 22:40:45,345 - INFO - __main__ - Started list bank accounts for customer: Peter@1
+2022-05-31 22:40:45,349 - INFO - __main__ - Customer actions for: Peter@1
+2022-05-31 22:41:01,243 - INFO - __main__ - Started show balance for: Peter@1
+2022-05-31 22:41:01,246 - INFO - __main__ - Customer actions for: Peter@1
+2022-05-31 22:41:38,105 - INFO - __main__ - Program ended
+2022-05-31 23:11:18,849 - INFO - __main__ - Program started: Homepage
+2022-05-31 23:11:21,442 - INFO - __main__ - Admin homepage
+2022-05-31 23:11:23,683 - INFO - __main__ - Admin login page
+2022-05-31 23:11:29,342 - DEBUG - __main__ - Admin login successful
+2022-05-31 23:11:32,362 - INFO - __main__ - Admin: customer delete
+2022-05-31 23:11:37,047 - DEBUG - __main__ - Admin deleted customer: s2205312309
+2022-05-31 23:53:07,529 - INFO - __main__ - Program started: Homepage
+2022-05-31 23:53:10,651 - INFO - __main__ - Program ended
+2022-05-31 23:55:44,128 - INFO - __main__ - Program started: Homepage
+2022-05-31 23:55:52,466 - INFO - __main__ - Program ended
