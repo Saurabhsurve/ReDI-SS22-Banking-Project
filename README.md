@@ -1,6 +1,6 @@
 # ReDI-SS22-Banking-Project
 This is a banking project built in python as a part of intermediate python course at ReDI, Munich for Spring semester 2022.
-For a visual overview of the function please check out the board on miro https://miro.com/app/board/uXjVOw-6_3w=/?share_link_id=339002349178
+For a visual overview of the user flow please check out the board on miro https://miro.com/app/board/uXjVOw-6_3w=/?share_link_id=339002349178
 The Banking function has 2 types of users: customers and admin
 
 Customers will be initially prompted to:
